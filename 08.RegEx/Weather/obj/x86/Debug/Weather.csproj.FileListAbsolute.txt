@@ -1,0 +1,5 @@
+/Users/Nikolay/Projects/Regex-Exercises/Weather/bin/Debug/Weather.exe
+/Users/Nikolay/Projects/Regex-Exercises/Weather/bin/Debug/Weather.pdb
+/Users/Nikolay/Projects/Regex-Exercises/Weather/obj/x86/Debug/Weather.csproj.CoreCompileInputs.cache
+/Users/Nikolay/Projects/Regex-Exercises/Weather/obj/x86/Debug/Weather.exe
+/Users/Nikolay/Projects/Regex-Exercises/Weather/obj/x86/Debug/Weather.pdb

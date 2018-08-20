@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{85D0316D-3ABF-43FE-896B-0F2A2B805EB7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DatabaseTest/TestDatabase.cs">
+    <Files>
+      <File FileName="DatabaseTest/TestDatabase.cs" Line="122" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="OOP-Advanced-UnitTesting" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Database PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B8FA335D-839F-4135-A23B-2FF3815D9EAE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PetClinics/Clinic.cs">
+    <Files>
+      <File FileName="PetClinics/Pet.cs" Line="14" Column="6" />
+      <File FileName="PetClinics/Clinic.cs" Line="94" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Nikolay/Projects/OOP-Advanced-IteratorsAndComparators/StrategyPattern/Program.cs" relfile="StrategyPattern/Program.cs" line="13" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Library PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

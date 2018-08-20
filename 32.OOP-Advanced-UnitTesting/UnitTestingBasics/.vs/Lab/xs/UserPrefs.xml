@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{40243B9A-88AA-48DD-9A11-FA65D6A28497}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/DummyTests.cs">
+    <Files>
+      <File FileName="Tests/AxeTests.cs" Line="24" Column="12" />
+      <File FileName="Tests/DummyTests.cs" Line="37" Column="13" />
+      <File FileName="Skeleton/Dummy.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lab" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="Tests" expanded="True">
+                <Node name="DummyTests" expanded="True">
+                  <Node name="Dummy_LooseHealth_AfterAttack" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Skeleton PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

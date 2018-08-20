@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A91042F0-B4CC-4E55-8D96-7A25AE118893}|Default">
+  <MonoDevelop.Ide.ItemProperties.Stealer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TrafficLights/Program.cs">
+    <Files>
+      <File FileName="TrafficLights/Program.cs" Line="17" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CreateAttribute FirstBuild="True" />
+</Properties>

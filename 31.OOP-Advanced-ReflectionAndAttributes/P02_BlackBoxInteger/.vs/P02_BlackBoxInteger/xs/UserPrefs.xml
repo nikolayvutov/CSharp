@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{FFC0ED3A-0D64-4BB3-BE90-EAF3F38F8F74}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackBoxIntegerTests.cs">
+    <Files>
+      <File FileName="BlackBoxIntegerTests.cs" Line="42" Column="13" />
+      <File FileName="BlackBoxInteger.cs" Line="3" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P02__BlackBoxInteger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

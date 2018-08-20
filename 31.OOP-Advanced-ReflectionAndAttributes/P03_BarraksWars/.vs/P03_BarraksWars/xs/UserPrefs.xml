@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{0B4FAE9F-1D45-4F41-8CB6-AB5F92463E70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/Engine.cs">
+    <Files>
+      <File FileName="Core/Commands/FightCommand.cs" Line="1" Column="43" />
+      <File FileName="Data/UnitRepository.cs" Line="52" Column="78" />
+      <File FileName="Core/Engine.cs" Line="68" Column="14" />
+      <File FileName="Core/Commands/RetireCommand.cs" Line="8" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.P03__BarraksWars PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
