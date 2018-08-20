@@ -1,5 +1,5 @@
 # CSharp
-C# projects, exercises and exams from the university.
+Software University - C# projects, exercises and exams.
 
 Working with:
 
