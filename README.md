@@ -1,5 +1,5 @@
 # CSharp
-CSharp projects, exercises and exams from the university.
+C# projects, exercises and exams from the university.
 
 Working with:
 
